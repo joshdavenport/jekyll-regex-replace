@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-regex-replace"
-  spec.version       = '1.0.0'
+  spec.version       = '1.1.0'
   spec.authors       = ["Josh Davenport"]
   spec.email         = ["josh@joshdavenport.co.uk"]
   spec.summary       = 'Simple module to allow using regular expression replacing via liquid filters'
